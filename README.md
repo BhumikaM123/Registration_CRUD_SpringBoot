@@ -14,11 +14,11 @@ Setup Spring Boot Project:
 5. Create a new database for the project.
 6. Configure Database Connection:
 7. Open application.properties file in the src/main/resources directory.
-8. Create Registration Entity:
-9. Create Registration Repository:
-10.Implement CRUD Operations:
-11.Create Controller:
-12.Test the Application:
+8. Create Registration Entity.
+9. Create Registration Repository.
+10.Implement CRUD Operations.
+11.Create Controller.
+12.Test the Application.
 13.Start the Spring Boot application.
 14.Use tools like Postman or curl to test the CRUD operations.
 15.Additional Enhancements:
